@@ -1,0 +1,2 @@
+var alunos;
+soma 

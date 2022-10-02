@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    background: #172026;
+    margin: 0px;
+    padding: 0px;
+    left: 0px;
+    top: 0px;
+}
+
+.container {
+    background: #5FCDD9;
+    text-align: ;
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+.aprovados {
+    text-align: left
+}
+
+.reprovados {
+    text-align: right;
+}
